@@ -1,0 +1,33 @@
+W<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <center><h1>Paragraph on Indian Army</h1></center>
+    <center><img src="download.jfif"></center>
+    <p>The Indian Army is operationally and geographically divided into seven commands.comprises more than 80% of the country’s active defense personnel.
+
+Presently our army is 2nd largest standing army in the world, with active troops and 960,000 reserve troops. The army has its infantry modernization program F-INSAS.</p>
+    <center><h1>Speech on Indian Army</h1></center> 
+    <p>Good Evening Ladies and gentlemen.  I am here before you today to present a speech on Indian Army.
+
+Indian army is one of the outstanding armies in the world. Ensuring national security and national unity is the main focus of the Indian army. Our army is fighting against external aggression and internal threats, and maintain peace and security within Indian borders.
+
+Except for war and battle against terror, it also conducts humanitarian rescue operations during natural calamities and other disturbances, like Operation Surya Hope. It is a major part of national power alongside the Indian Navy and the Indian Air Force. Indian army has also fought four big wars with neighboring Pakistan and one with China. Other important operations undertaken by the army include Operation Vijay, Operation Meghdoot and Operation Cactus.
+
+</p>
+       <center> <h2>Basic Divisions</h2></center>
+    <p>There are 9 basic field divisions of the Indian army. Let me brief it one by one.</p>
+
+    <p>1) Command: The Indian Army has six operational commands and one training command. Every command has a general officer commanding-in-chief (GOC-in-C), known as the army commander.</p>
+
+    <p>2) Corps: A command generally consists of two or more corps. There is a total of 14 Corps. Each corp is commanded by a general officer commanding (GOC), known as the corps commander, who holds the rank of lieutenant general. Also, each corps is formed of three or four divisions.<p/>
+
+    <p>3) Division: Each division is headed by GOC (division commander) in the rank of major general. It usually consists of three to four Brigades. Currently, the Indian Army has 40 Divisions.<p/>
+
+    <p>4) Brigade: A brigade generally consists of around 3,000 combat troops with supporting elements. An Infantry Brigade is composed of three infantry battalions.</p>
+
+    <p>5) Battalion: Composed of four rifle companies. A battalion commander who is a Colonel heads it.</p>
+</body>
+</html>
